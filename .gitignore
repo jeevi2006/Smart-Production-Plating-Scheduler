@@ -1,0 +1,35 @@
+# Node
+node_modules/
+
+# React
+build/
+dist/
+
+# Electron
+release/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Executables
+*.exe
+
+# PyInstaller
+*.spec
+
+# Backend build folders
+backend/main.dist/
+backend/batch.dist/
+backend/scheduling_basic_loading_plotting_v7.dist/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
