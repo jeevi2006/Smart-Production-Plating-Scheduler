@@ -1,6 +1,6 @@
 # Smart Production Plating Scheduler
 
-## 📌 Overview
+##  Overview
 
 **Smart Production Plating Scheduler** is a desktop application designed to automate production scheduling for plating operations.
 
@@ -10,7 +10,7 @@ The system combines a **React.js and Electron frontend** with a **Python and Fas
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Production scheduling in plating operations can involve multiple parts, machines, priorities, quantities, and processing requirements.
 
@@ -26,7 +26,7 @@ The Smart Production Plating Scheduler was developed to reduce manual scheduling
 
 ---
 
-## 💡 Proposed Solution
+##  Proposed Solution
 
 The application allows production data to be uploaded through an Excel file.
 
@@ -55,9 +55,9 @@ Priority-Based Scheduling
 
 ---
 
-## ⭐ Key Features
+##  Key Features
 
-### 📊 Excel-Based Input
+###  Excel-Based Input
 
 Production planning information can be provided through Excel datasets.
 
